@@ -9,8 +9,8 @@ import (
 	"reflect"
 	elastic "gopkg.in/olivere/elastic.v3"
 	"github.com/pborman/uuid"
-	"context"
-	"cloud.google.com/go/bigtable"
+	//"context"
+	//"cloud.google.com/go/bigtable"
 	"strings"
 )
 
